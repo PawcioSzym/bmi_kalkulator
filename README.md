@@ -1,4 +1,5 @@
-
+# bmi_kalkulator
+ kalkulator bmi
 Kategoria	| Zakres BMI (kg/m²)
 Niedowaga 	< 18,5
 Prawidłowa masa ciała	 18,5 – 24,9
