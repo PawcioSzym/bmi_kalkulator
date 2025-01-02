@@ -15,3 +15,8 @@ Otyłość I stopnia	30,0 – 34,9
 Otyłość II stopnia	35,0 – 39,9
 Otyłość III stopnia	≥ 40,0
 ==============
+Najniebezpieczniejsze choroby i powikłania związane z nadwagą i niedowagą to:
+- Ryzyko zawału serca i innych problemów sercowo-naczyniowych z powodu miażdżycy i nadciśnienia
+- Nowotwory np. rak jelita grubego, piersi, wątroby, nerek, czy trzustki są bardziej prawdopodobne u osób z nadwagą.
+- Niedobór masy kostnej i brak odpowiednich składników odżywczych
+- Osłabienie układu immunologicznego co skutkuje większą podatnością na ciężkie infekcje bakteryjne, wirusowe i grzybicze.
