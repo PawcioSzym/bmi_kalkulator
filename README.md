@@ -1,9 +1,12 @@
 # bmi_kalkulator
+
+kalkulator bmi
+
 Paweł Szymański
 Krzysztof Sowa
 Mikołaj Stoicki
 Maciek Włoczek
-==============
+
 Czym jest BMI i jak liczyć jego wskaźnik:
 Wskaźnik BMI został stworzony przez belgijskiego matematyka Adolfa Queteleta w 1832 roku.
 
