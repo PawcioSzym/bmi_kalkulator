@@ -1,8 +1,6 @@
 
 # bmi_kalkulator
 
-kalkulator bmi
-
 Paweł Szymański
 Krzysztof Sowa
 Mikołaj Stoicki
