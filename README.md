@@ -1,3 +1,4 @@
+
 # bmi_kalkulator
 
 kalkulator bmi
@@ -9,6 +10,9 @@ Maciek Włoczek
 
 Czym jest BMI i jak liczyć jego wskaźnik:
 Wskaźnik BMI został stworzony przez belgijskiego matematyka Adolfa Queteleta w 1832 roku.
+
+BMI (Body Mass Index) to wskaźnik masy ciała w stosunku do wzrostu, który jest szeroko stosowany do oceny, czy dana osoba ma prawidłową masę ciała. Wzór na BMI to:
+BMI=masa(kg)/wzrost(m)^2
 
 Kategoria	Zakres BMI (kg/m²) :
 Niedowaga	< 18,5
